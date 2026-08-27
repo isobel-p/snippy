@@ -21,3 +21,13 @@ Then the routing. Oh, the routing. It was my first time routing something so sma
 ![The PCB.](https://user-cdn.hackclub-assets.com/01a0402f-264f-746c-8d09-8c8aca287104/Screenshot_20260826_232648.png)
 
 **Total time spent today: 5 hours**
+
+# August 27: Finished firmware and CAD!
+Today was exhausting. The firmware didn't take too long, I'm more of a software person. One button takes a picture of the current window, one launches the Spectacle app (or other equivalent screenshot app) and one takes a picture of all active screens. That probably took less than an hour.
+
+But this was my first time using Fusion 360. Not counting the insane amount of time it took to even download (which was at least an hour), the whole thing took 5 hours. First it took me ages just to work out how to extrude and stuff. Then because I added rounded corners on the PCB, I tried copying the rounded edges which took SO LONG and made everything so much harder. I scrapped that and went for a rectangular case in the end. At least it works. And then when I finally had it looking like a dongle case, I realised because of the THT buttons, I wouldn't be able to fit the PCB in. So I had to start from scratch. Now the case slides in, and there's a hole at the bottom for the buttons to stick through. While this may not be great for structural integrity it works and everything fits. Although I learned a lot today, I won't be touching Fusion 360 again with a 10 foot pole. 
+
+![Trying and failing to get the rounded edges on my case.](https://cdn.hackclub.com/01a0455a-5642-7fc5-941a-040b0eb789e3/Screenshot%202026-08-27%20190800.png)
+*Trying and failing to get the rounded edges on my case.*
+
+**Total time spent today: 6 hours**
