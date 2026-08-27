@@ -10,7 +10,8 @@ Snippy is a USB dongle for taking screenshots, in a compact form factor. Often i
 
 ## BOM
 |Part|QTY|Cost|
-|PCB|5|UPDATE THIS LATER|
+|---|---|---|
+|PCB|5|$56.36|
 
 ![The schematic for Snippy.](https://user-cdn.hackclub-assets.com/01a0402c-a319-7ea3-8ec0-878b441334cb/Screenshot_20260826_2323401.png)
 

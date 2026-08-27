@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","100nF","","","","Capacitor_SMD:C_0603_1608Metric",""
+"J1","1","USB_A","","","","CH552G:USB-A",""
+"R1","1","10k","","","","Resistor_SMD:R_0603_1608Metric",""
+"SW1","1","SW_Push","","","","Button_Switch_SMD:SW_SPST_TS-1088-xR020",""
+"SW2,SW3,SW4","3","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm",""
+"U1","1","CH552G","","","","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","https://github.com/WeActStudio/WeActStudio.CH552CoreBoard/blob/master/Datasheet/CH552DS1_en.PDF"
